@@ -1,0 +1,92 @@
+#miheader{
+width: 100%;
+height: 362px;
+background-color: white;
+}
+
+a{
+color: #0061f0;
+}
+
+body{
+background: #eff2f9;
+}
+
+#btnSucia{
+    border-radius: 300px;
+}
+
+.wave{
+position: absolute;
+width: 100%;
+bottom: 0;
+}
+
+.minavbar{
+float: right;
+}
+
+#navbarNavDropdown{
+text-align: right !important;
+float: right !important;
+margin-right: 4%;
+margin-top: 1.2%;
+background-color: #fff;
+}
+
+.navbar-brand {
+display: inline-block;
+margin-left: 7.7%;
+margin-top: 2.2%;
+padding-top: .3125rem;
+padding-bottom: .3125rem;
+margin-right: 1rem;
+font-size: 1.25rem;
+line-height: inherit;
+white-space: nowrap;
+font-size: 1.2rem;
+font-weight: 700;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+padding-right: .9rem !important;
+padding-left: .9rem !important;
+}
+
+#anim {
+position: absolute;
+width: 200px;
+cursor: pointer;
+height: auto;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+.imagenHeader{
+position: absolute !important;
+right: 10%;
+top: 30%;
+height: 90% !important;
+float: right !important;
+}
+
+#buttonHelp{
+width: 9%;
+height: 38px !important;
+margin-top: 2.2%;
+margin-right: 12%;
+font-weight: 100;
+float: right;
+border-radius: 100px;
+background-color: #0061f0;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #b7b7b7;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #b7b7b7;
+}
